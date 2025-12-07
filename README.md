@@ -120,7 +120,7 @@ Quantica is experimental, yet intentional. We believe in focused, incremental ev
 
 [Reddit](https://www.reddit.com/r/QuanticaLang/)
 
-[Linkedin](linkedin.com/company/quantica-foundation)
+[Linkedin](https://www.linkedin.com/company/quantica-foundation)
 
  
 
